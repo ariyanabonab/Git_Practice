@@ -8,9 +8,9 @@ def print_the_instructors_name():
 def print_the_number_of_this_room():
     print("5382")
 
-def split_this_string_at_each_space(input_string):
-    s = "milkshake"
-    print(s.split(""))
+#def split_this_string_at_each_space(input_string):
+    #s = "milkshake"
+   #print(s.split(""))
 
 def take_the_average_of_these_numbers(a, b):
     print(np.mean([a, b]))
